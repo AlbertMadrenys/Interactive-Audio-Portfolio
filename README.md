@@ -56,5 +56,6 @@ Comprenhensive and extensive documentation can be found [here](./docs/Interactiv
 
 ## Media
 
-Video demostrations of the three projects of the portfolio can be found here.
+Video demostrations of the three projects of the portfolio can be
+found [here](https://youtube.com/playlist?list=PLNpyzkzoPxMF7_VSaNK5pQd7gpUXUl-UI).
 Additionally, there are image galleries on some project's folder.

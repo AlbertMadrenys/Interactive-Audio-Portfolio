@@ -17,11 +17,13 @@ the scenes.
 Some elements of the project are not uploaded in this repository because it is not original work:
 
 ### Face Detection
-Contributors: Daniel Shiffman, Greg Borenstein, Jordi Tost, Rebecca Fiebrink
+Contributors: Daniel Shiffman, Greg Borenstein, Jordi Tost, Rebecca Fiebrink.
+
 Source code: http://www.wekinator.org/examples/#VideoWebcam
 
 ### Xbox 360 controller
-Contributors: Scott H. Hawley, Rebecca Fiebrink, Peter Lager 
+Contributors: Scott H. Hawley, Rebecca Fiebrink, Peter Lager.
+
 Source code: https://gist.github.com/drscotthawley/dd74db91dd2f8ec3c810a87d4d26b576
 
 Minor modification made by the author to the `sendOsc()` method. The sent values have been normalized from 0 to 1.
@@ -46,4 +48,5 @@ Comprenhensive and extensive documentation can be found [here](../docs/Interacti
 ## Media
 
 Video demostrations of the the project:
+https://youtu.be/FYbWbgoGHj8
 
